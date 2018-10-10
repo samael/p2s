@@ -23,4 +23,5 @@ venv
 .noseids
 docs/_build/
 nosetests.xml
-p2s/coverage.xml
+core/coverage.xml
+htmlcov
